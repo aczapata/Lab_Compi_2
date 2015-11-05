@@ -1,0 +1,3 @@
+A->abc
+A->abd
+A->ab
